@@ -39,12 +39,12 @@ git clone https://github.com/hariperisetla4431/Devanagari-Handwritten-Character-
 ## Outputs
 
 ### Letters
-<img src="output_samples/ka.png" width="50%"> <img src="output_samples/ga.png" width="50%">
+<img src="output_samples/ka.png" width="50%"><img src="output_samples/ga.png" width="50%">
 
 ### Numbers
-<img src="output_samples/0.png" width="50%"> <img src="output_samples/1.png" width="50%">
+<img src="output_samples/0.png" width="50%"><img src="output_samples/1.png" width="50%">
 
 ## Accuracy
-<img src="output_samples/accuracy.png" width="50%">
+<img src="output_samples/accuracy.png">
 
 
